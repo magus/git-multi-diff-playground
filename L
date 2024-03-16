@@ -1,2 +1,4 @@
 lemon
 sweet: false
+color:  yellow
+skin: true
